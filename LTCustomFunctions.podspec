@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author           = { '冰凌天' => '963527512@qq.com' }
-  s.source           = { :git => 'https://github.com/963527512/LTCustomFunctions.git/LTCustomFunctions.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/963527512/LTCustomFunctions.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

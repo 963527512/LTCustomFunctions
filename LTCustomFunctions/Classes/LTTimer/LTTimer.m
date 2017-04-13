@@ -49,12 +49,9 @@
 - (void)invalidate
 {
     [_timer invalidate];
+    _timer = nil;
 }
 
-- (void)dealloc
-{
-    NSLog(@"%s", __FUNCTION__);
-}
 
 @end
 
