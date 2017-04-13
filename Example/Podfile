@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LTCustomFunctions_Example' do
+  pod 'LTCustomFunctions', :path => '../'
+
+  target 'LTCustomFunctions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,18 @@
+PODS:
+  - LTCustomFunctions (0.1.0):
+    - LTCustomFunctions/LTTimer (= 0.1.0)
+  - LTCustomFunctions/LTTimer (0.1.0)
+
+DEPENDENCIES:
+  - LTCustomFunctions (from `../`)
+
+EXTERNAL SOURCES:
+  LTCustomFunctions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LTCustomFunctions: 8e178ebd9d5fecdd16d0ddaf1db4b21734ceae4b
+
+PODFILE CHECKSUM: b46ee44858afeaa375bf290c16f4dfcfcee6e652
+
+COCOAPODS: 1.2.0

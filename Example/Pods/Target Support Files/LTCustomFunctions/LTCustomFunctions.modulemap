@@ -1,0 +1,6 @@
+framework module LTCustomFunctions {
+  umbrella header "LTCustomFunctions-umbrella.h"
+
+  export *
+  module * { export * }
+}

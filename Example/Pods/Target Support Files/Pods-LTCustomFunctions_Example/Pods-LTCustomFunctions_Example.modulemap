@@ -1,0 +1,6 @@
+framework module Pods_LTCustomFunctions_Example {
+  umbrella header "Pods-LTCustomFunctions_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
